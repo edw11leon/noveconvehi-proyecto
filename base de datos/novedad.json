@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "61a4369afc746d4c8e9785f0"
+  },
+  "placa": "TAX991",
+  "documento_conduc": 15545774,
+  "nombre": "CRISTIAN",
+  "fecha": {
+    "$date": "2020-11-12T00:00:00Z"
+  },
+  "novedad": "CARROS SIN PARABRISAS",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.novedadModelo"
+},{
+  "_id": {
+    "$oid": "61a43df6fc746d4c8e9785fb"
+  },
+  "placa": "WDF486",
+  "documento_conduc": 1045938465,
+  "nombre": "CRISTIAN CAMAAHO",
+  "fecha": {
+    "$date": "2021-11-12T00:00:00Z"
+  },
+  "novedad": "PINCHAZO DE LLANTA TRASERA",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.novedadModelo"
+},{
+  "_id": {
+    "$oid": "61a43f80fc746d4c8e9785fc"
+  },
+  "placa": "FST348",
+  "documento_conduc": 1096007735,
+  "nombre": "MIGUEL LOPEZ",
+  "fecha": {
+    "$date": "2021-10-09T00:00:00Z"
+  },
+  "novedad": "FALLA EN LUZ LATERAL IZQUIERDA",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.novedadModelo"
+},{
+  "_id": {
+    "$oid": "61a43fcefc746d4c8e9785fd"
+  },
+  "placa": "SMG996",
+  "documento_conduc": 1096007735,
+  "nombre": "JORGE RAMIREZ",
+  "fecha": {
+    "$date": "2021-11-26T00:00:00Z"
+  },
+  "novedad": "CARRO CON FUGA DE GAZ",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.novedadModelo"
+},{
+  "_id": {
+    "$oid": "61a4400ffc746d4c8e9785fe"
+  },
+  "placa": "SMG991",
+  "documento_conduc": 1098775856,
+  "nombre": "EMANUEL ROJAS",
+  "fecha": {
+    "$date": "2021-10-10T00:00:00Z"
+  },
+  "novedad": "CARRO CON OLLA PEGADA",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.novedadModelo"
+},{
+  "_id": {
+    "$oid": "61a69c5a8ffb424b4e0e8813"
+  },
+  "placa": "fst625",
+  "documento_conduc": 1098,
+  "nombre": "edwing",
+  "fecha": {
+    "$date": "2021-12-21T00:00:00Z"
+  },
+  "novedad": "aplicando el tema de validacion de formularios",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.novedadModelo"
+},{
+  "_id": {
+    "$oid": "61a98a3fb43682105f5b9671"
+  },
+  "placa": "WOO113",
+  "documento_conduc": 16575,
+  "nombre": "edwing",
+  "fecha": {
+    "$date": "2021-12-14T00:00:00Z"
+  },
+  "novedad": "FALLA DE FRENOS",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.novedadModelo"
+}]

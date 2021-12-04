@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "61a43bfbfc746d4c8e9785f6"
+  },
+  "documento": 1096553291,
+  "nombres": "JORGE",
+  "apellidos": "RAMIREZ",
+  "sexo": "M",
+  "correo": "JRAMIREZ@GMAIL.COM",
+  "direccion": "RIINCON DE LA PAZCASA 558",
+  "telefono": "3157678024",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.conductoresModelo"
+},{
+  "_id": {
+    "$oid": "61a43c50fc746d4c8e9785f7"
+  },
+  "documento": 23984695,
+  "nombres": "JEAN CARLOS",
+  "apellidos": "MARTINEZ",
+  "sexo": "M",
+  "correo": "JMC@GMAILC.OM",
+  "direccion": "calle36",
+  "telefono": "34658568",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.conductoresModelo"
+},{
+  "_id": {
+    "$oid": "61a43c99fc746d4c8e9785f8"
+  },
+  "documento": 1096007735,
+  "nombres": "MIGUEL",
+  "apellidos": "LOPEZ",
+  "sexo": "M",
+  "correo": "MIGUELLOPEZ@GMAIL.COM",
+  "direccion": "PIEDECUESTA CALLE16",
+  "telefono": "315592580256",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.conductoresModelo"
+},{
+  "_id": {
+    "$oid": "61a43d1afc746d4c8e9785f9"
+  },
+  "documento": 109896467,
+  "nombres": "JOAQUIN",
+  "apellidos": "MENESES",
+  "sexo": "M",
+  "correo": "JAOQUIN@GMAIL.COM",
+  "direccion": "CALLLE 48",
+  "telefono": "4634457",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.conductoresModelo"
+},{
+  "_id": {
+    "$oid": "61a43da5fc746d4c8e9785fa"
+  },
+  "documento": 1098775856,
+  "nombres": "EMANUEL",
+  "apellidos": "ROJAS",
+  "sexo": "M",
+  "correo": "EMAROJAS@GMAIL.COM",
+  "direccion": "VIA CUCUTA",
+  "telefono": "349045754",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.conductoresModelo"
+},{
+  "_id": {
+    "$oid": "61a44315fc746d4c8e9785ff"
+  },
+  "documento": 1098560536,
+  "nombres": "JAIME",
+  "apellidos": "LAMUS",
+  "sexo": "M",
+  "correo": "JAILAMU@GMAIL.COM",
+  "direccion": "CALLE 40-235",
+  "telefono": "302353463",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.conductoresModelo"
+}]

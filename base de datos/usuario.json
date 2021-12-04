@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "61a8146c980d7e0662df1f0f"
+  },
+  "usuario": "edwing",
+  "contrasena": "123456",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.usuarioModelo"
+},{
+  "_id": {
+    "$oid": "61a82ace81669f0b303a4e48"
+  },
+  "usuario": "edw1",
+  "contrasena": "123",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.usuarioModelo"
+},{
+  "_id": {
+    "$oid": "61a91cf7f97b2910a2f90dd0"
+  },
+  "usuario": "admin",
+  "contrasena": "123",
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.usuarioModelo"
+}]

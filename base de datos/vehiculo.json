@@ -1,0 +1,122 @@
+[{
+  "_id": {
+    "$oid": "61a04fcae93015706918c133"
+  },
+  "placa": "tax933",
+  "modelo": 2010,
+  "cantidad_llantas": 10,
+  "fec_ven_soat": {
+    "$date": "2021-11-26T00:00:00Z"
+  },
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.vehiculoModelo"
+},{
+  "_id": {
+    "$oid": "61a050d6e93015706918c134"
+  },
+  "placa": "tax993",
+  "modelo": 2007,
+  "cantidad_llantas": 10,
+  "fec_ven_soat": {
+    "$date": "2021-11-12T00:00:00Z"
+  },
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.vehiculoModelo"
+},{
+  "_id": {
+    "$oid": "61a053f9e93015706918c135"
+  },
+  "placa": "SMG991",
+  "modelo": 2011,
+  "cantidad_llantas": 10,
+  "fec_ven_soat": {
+    "$date": "2021-11-14T00:00:00Z"
+  },
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.vehiculoModelo"
+},{
+  "_id": {
+    "$oid": "61a0557ae93015706918c137"
+  },
+  "placa": "WFD486",
+  "modelo": 2015,
+  "cantidad_llantas": 10,
+  "fec_ven_soat": {
+    "$date": "2021-11-11T00:00:00Z"
+  },
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.vehiculoModelo"
+},{
+  "_id": {
+    "$oid": "61a25321fc746d4c8e9785ea"
+  },
+  "placa": "SMG996",
+  "modelo": 2009,
+  "cantidad_llantas": 10,
+  "fec_ven_soat": {
+    "$date": "2021-11-12T00:00:00Z"
+  },
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.vehiculoModelo"
+},{
+  "_id": {
+    "$oid": "61a43463fc746d4c8e9785ed"
+  },
+  "placa": "FST348",
+  "modelo": 2015,
+  "cantidad_llantas": 10,
+  "fec_ven_soat": {
+    "$date": "2021-11-23T00:00:00Z"
+  },
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.vehiculoModelo"
+},{
+  "_id": {
+    "$oid": "61a449e6fc746d4c8e978601"
+  },
+  "placa": "tax991",
+  "modelo": 2010,
+  "cantidad_llantas": 10,
+  "fec_ven_soat": {
+    "$date": "2021-11-29T00:00:00Z"
+  },
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.vehiculoModelo"
+},{
+  "_id": {
+    "$oid": "61a4369afc746d4c8e9785f0"
+  },
+  "placa": "TAX992",
+  "modelo": 2019,
+  "cantidad_llantas": 10,
+  "fec_ven_soat": {
+    "$date": "2021-11-02T00:00:00Z"
+  },
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.vehiculoModelo"
+},{
+  "_id": {
+    "$oid": "61a69ad18ffb424b4e0e8812"
+  },
+  "placa": "TAX991",
+  "modelo": 2019,
+  "cantidad_llantas": 10,
+  "fec_ven_soat": {
+    "$date": "2021-11-30T00:00:00Z"
+  },
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.vehiculoModelo"
+},{
+  "_id": {
+    "$oid": "61a84ff9fd8f1b3aa04c0849"
+  },
+  "placa": "WOO814",
+  "modelo": 2015,
+  "cantidad_llantas": 10,
+  "fec_ven_soat": {
+    "$date": "2021-12-13T00:00:00Z"
+  },
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.vehiculoModelo"
+},{
+  "_id": {
+    "$oid": "61a85267fd8f1b3aa04c084a"
+  },
+  "placa": "WOO815",
+  "modelo": 2010,
+  "cantidad_llantas": 12,
+  "fec_ven_soat": {
+    "$date": "2021-11-12T00:00:00Z"
+  },
+  "_class": "com.proyectoFinal.proyectoFinal.modelo.vehiculoModelo"
+}]
